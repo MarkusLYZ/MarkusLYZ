@@ -2,7 +2,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarkusLYZ&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-flame-three-82.vercel.app/api?username=MarkusLYZ&show_icons=true&hide_border=true&include_private=true)
+![Top Langs](https://github-readme-stats-flame-three-82.vercel.app/api?username=MarkusLYZ&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats-flame-three-82.vercel.app/api/top-langs/?username=MarkusLYZ&langs_count=8)](https://github.com/MarkusLYZ)
 <!--
