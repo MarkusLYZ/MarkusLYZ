@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats-flame-three-82.vercel.app/api?username=MarkusLYZ&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats-flame-three-82.vercel.app/api/top-langs/?username=MarkusLYZ&langs_count=8)](https://github.com/MarkusLYZ) 
+
 <!--
 **MarkusLYZ/MarkusLYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
